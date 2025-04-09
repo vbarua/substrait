@@ -1,1 +1,2 @@
-proto/buf.lock linguist-generated=true
+buf.lock linguist-generated=true
+gen/* linguist-generated=true

@@ -2,4 +2,7 @@
 **/.gradle
 **/.idea
 **/build
-gen
+gen/proto/java
+gen/proto/cpp
+gen/proto/csharp
+gen/proto/python
